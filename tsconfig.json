@@ -53,6 +53,7 @@
   },
 
   "include": [
+    "types",
     "index.js"
   ]
 }
