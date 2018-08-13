@@ -14,10 +14,15 @@
     "@semantic-release/github": "^5.0.2"
   },
   "devDependencies": {
-    "semantic-release": "^15.9.8"
+    "semantic-release": "^15.9.8",
+    "travis-deploy-once": "^5.0.2"
   },
   "publishConfig": {
     "access": "public",
     "tag": "next"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release",
+    "travis-deploy-once": "travis-deploy-once"
   }
 }
