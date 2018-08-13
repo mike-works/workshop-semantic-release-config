@@ -1,0 +1,23 @@
+{
+  "name": "@mike-works/workshop-semantic-release-config",
+  "version": "0.0.0-development",
+  "description": "semantic-release configuration for Mike Works workshops",
+  "main": "index.js",
+  "repository": "https://github.com/mike-works/workshop-semantic-release-config",
+  "author": "Mike North <michael.l.north@gmail.com> (https://mike.works)",
+  "license": "MIT",
+  "dependencies": {
+    "@semantic-release/changelog": "^3.0.0",
+    "@semantic-release/error": "^2.2.0",
+    "@semantic-release/exec": "^3.0.2",
+    "@semantic-release/git": "^7.0.1",
+    "@semantic-release/github": "^5.0.2"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.9.8"
+  },
+  "publishConfig": {
+    "access": "public",
+    "tag": "next"
+  }
+}
