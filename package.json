@@ -26,6 +26,7 @@
     "tag": "next"
   },
   "scripts": {
+    "test": "echo 'no tests yet'",
     "semantic-release": "semantic-release",
     "travis-deploy-once": "travis-deploy-once"
   }
