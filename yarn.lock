@@ -137,9 +137,9 @@
   dependencies:
     symbol-observable "^1.2.0"
 
-"@types/execa@^0.9.0":
+"@types/execa@0.9.0":
   version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@types/execa/-/execa-0.9.0.tgz#9b025d2755f17e80beaf9368c3f4f319d8b0fb93"
+  resolved "http://registry.npmjs.org/@types/execa/-/execa-0.9.0.tgz#9b025d2755f17e80beaf9368c3f4f319d8b0fb93"
   dependencies:
     "@types/node" "*"
 
@@ -3898,7 +3898,7 @@ safe-regex@^1.1.0:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
 
-semantic-release@^15.9.8:
+semantic-release@15.9.8:
   version "15.9.8"
   resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-15.9.8.tgz#cacd6a160f8155f1ef98eef5923af19979bc34e5"
   dependencies:
@@ -4391,7 +4391,7 @@ traverse@~0.6.6:
   version "0.6.6"
   resolved "https://registry.yarnpkg.com/traverse/-/traverse-0.6.6.tgz#cbdf560fd7b9af632502fed40f918c157ea97137"
 
-travis-deploy-once@^5.0.2:
+travis-deploy-once@5.0.2:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/travis-deploy-once/-/travis-deploy-once-5.0.2.tgz#7d1a075ba83d5fcffcc5df0436dafb6f388e5542"
   dependencies:
