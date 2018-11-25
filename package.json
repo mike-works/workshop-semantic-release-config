@@ -1,7 +1,7 @@
 {
   "name": "@mike-works/workshop-semantic-release-config",
   "version": "0.0.0-development",
-  "description": "semantic-release configuration for Mike Works workshops",
+  "description": "semantic-release configuration for Mike Works workshop projects",
   "main": "index.js",
   "repository": "https://github.com/mike-works/workshop-semantic-release-config",
   "author": "Mike North <michael.l.north@gmail.com> (https://mike.works)",
