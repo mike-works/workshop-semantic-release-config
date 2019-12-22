@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@types/execa": "0.9.0",
-    "semantic-release": "15.13.12",
+    "semantic-release": "15.14.0",
     "travis-deploy-once": "5.0.11"
   },
   "engines": {
